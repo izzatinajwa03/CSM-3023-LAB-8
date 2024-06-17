@@ -1,0 +1,8 @@
+com\DAO\EmployeeDAO.class
+com\Web\EmployeeServlet.class
+com\carshop\dao\CarDao.class
+com\carshop\model\Car.class
+com\mycompany\lab8\resources\JakartaEE10Resource.class
+com\Model\Employee.class
+com\mycompany\lab8\JakartaRestConfiguration.class
+com\Web\CarServlet.class
